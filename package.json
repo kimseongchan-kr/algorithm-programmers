@@ -1,0 +1,19 @@
+{
+  "name": "algorithm-programmers",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimseongchan-kr/algorithm-programmers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimseongchan-kr/algorithm-programmers/issues"
+  },
+  "homepage": "https://github.com/kimseongchan-kr/algorithm-programmers#readme"
+}
