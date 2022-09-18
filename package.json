@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/kimseongchan-kr/algorithm-programmers/issues"
   },
-  "homepage": "https://github.com/kimseongchan-kr/algorithm-programmers#readme"
+  "homepage": "https://github.com/kimseongchan-kr/algorithm-programmers#readme",
+  "type": "module"
 }
