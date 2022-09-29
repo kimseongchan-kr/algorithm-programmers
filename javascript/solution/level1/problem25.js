@@ -1,17 +1,21 @@
+/*
+ * 문자열 다루기 기본
+ */
+
 function solution(s) {
-  var answer = true;
-  console.log(s.split(''));
-  var test = s.split('');
+  var string = s.trim();
 
-  for (var i = 0; i < test.length; i++) {
-    console.log(s[i]);
-
-    if (isNaN(s[i])) {
-      return false;
+  if (string.length === 4 || string.length === 6) {
+    for (let i = 0; i < s.length; i++) {
+      if (isNaN(s[i])) {
+        return false;
+      }
     }
+  } else {
+    return false;
   }
 
-  return answer;
+  return true;
 }
 
-console.log(solution('9019zZ213'));
+console.log(solution('1111'));
