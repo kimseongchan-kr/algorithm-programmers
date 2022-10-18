@@ -16,5 +16,8 @@
     "url": "https://github.com/kimseongchan-kr/algorithm-programmers/issues"
   },
   "homepage": "https://github.com/kimseongchan-kr/algorithm-programmers#readme",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  }
 }
